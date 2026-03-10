@@ -1,4 +1,4 @@
-Pablo A. Ramos-Henao
+# Pablo A. Ramos-Henao
 
 <span style="color:#5835a0; font-weight:bold">I'm a Biologist with an MsC in Data Science and AI.</span>
 
@@ -32,27 +32,27 @@ This is whre my projects live. Thanks for paying them a visit.
 <span style="font-family: 'Times New Roman', serif;">
 
 
-*«"O frati," dissi, "che per cento milia*
+  *«"O frati," dissi, "che per cento milia*
 
-*perigli siete giunti a l'occidente,*
+  *perigli siete giunti a l'occidente,*
 
-*a questa tanto picciola vigilia*
-
-
-*d'i nostri sensi ch'è del rimanente*
-
-*non vogliate negar l'esperïenza,*
-
-*di retro al sol, del mondo sanza gente.*
+  *a questa tanto picciola vigilia*
 
 
-*Considerate la vostra semenza:*
+  *d'i nostri sensi ch'è del rimanente*
 
-*fatti non foste a viver come bruti,*
+  *non vogliate negar l'esperïenza,*
 
-*ma per seguir virtute e canoscenza".»*
+  *di retro al sol, del mondo sanza gente.*
 
-I. XVI
+
+  *Considerate la vostra semenza:*
+
+  *fatti non foste a viver come bruti,*
+
+  *ma per seguir virtute e canoscenza".»*
+
+  I. XVI
 
 </span>
 <!---
