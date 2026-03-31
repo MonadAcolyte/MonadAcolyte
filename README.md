@@ -6,6 +6,7 @@
 - Molecular/Computational Biology
 - Machine learning
 - Laboratory Automation
+- Data Visualisation
 
 ## Toolset
 - **Python**
@@ -15,7 +16,7 @@
   - Matplotlib
 - **Bash**
 - **Git**
-- LaTex
+- **LaTex**
 
 This is whre my projects live. Thanks for paying them a visit.
 
